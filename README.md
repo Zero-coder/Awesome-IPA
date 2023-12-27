@@ -10,9 +10,10 @@
 
 ![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/d13c1e70-aacc-402a-979b-154e643adad3)
 
+
 Our goal is to build a simple and clear general IPA framework and tutorial to facilitate your application or secondary development based on your own scenario. For mianstream platform MacOs, Windows, Linux(Ubuntu).
 
-![5b30120f2542bac13c12fae754679d17](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/32300000-b1d5-4493-9db2-837b41aa4311)
+
 
 
 
