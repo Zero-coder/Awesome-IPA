@@ -1,5 +1,6 @@
-![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/4970be72-f37b-4594-b54a-b239d46930d0)
 # Awesome-IPA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
 
 
 
@@ -19,3 +20,4 @@ Our goal is to build a simple and clear general IPA framework and tutorial to fa
 ![632fbc1fdb57945dc65314fbec73d3b6](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/978a37e1-8131-421f-bc07-97665e519f7f)
 
 
+![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/4970be72-f37b-4594-b54a-b239d46930d0)
