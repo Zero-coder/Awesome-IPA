@@ -9,7 +9,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
   - [IPA framework](#IPA-framework)
   - [Demos](#Demos)
-  - [Simple Rule - Tutorials](#Simple-Rule-Tutorials)
+  - [Simple Rule - Tutorials](#Simple Rule - Tutorials)
   - [Acknowledgement](#Acknowledgement)
 
 ## IPA-framework
