@@ -1,14 +1,14 @@
-# 🌌🔭Awesome-IPA：Open-Source IPA framework and tutorials(Demos). 
+# 🌌🔭Awesome-IPA：Open-Source IPA framework and Demos. 
 
 
 
 Our goal is to build a simple and clear general IPA framework and tutorial to facilitate your application or secondary development based on your own scenario. For mianstream platform MacOs, Windows, Linux(Ubuntu).
 
 
-## Tutorials(Demos)
+## Demos
 
 * [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer): A framework to enable multimodal models to operate a computer. Using the same inputs and outputs of a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
-## Simple Rule
+## Simple Rule - Tutorials
 
 <div align="center">
 <!--   ![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1) -->
