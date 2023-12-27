@@ -6,10 +6,8 @@ Our goal is to build a simple and clear general IPA framework and tutorial to fa
 
 
 ## Tutorials(Demos)
-### Self-Operating Computer Framework 
-Repository: https://github.com/OthersideAI/self-operating-computer
 
-
+* **Self-Operating Computer Framework **: A framework to enable multimodal models to operate a computer. [[Code](https://github.com/OthersideAI/self-operating-computer)]
 ## Simple Rule
 
 <div align="center">
