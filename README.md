@@ -5,6 +5,10 @@ Our goal is to build a simple and clear general IPA framework and tutorial to fa
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
 
+annotation:
+- RPA - Robotic Process Automation
+- IPA - Intelligent Process Automation
+
 ## Overview
 
   - [IPA-framework](#IPA-framework)
