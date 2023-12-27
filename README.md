@@ -1,4 +1,5 @@
-![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/4970be72-f37b-4594-b54a-b239d46930d0)# Awesome-IPA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/4970be72-f37b-4594-b54a-b239d46930d0)
+# Awesome-IPA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 
