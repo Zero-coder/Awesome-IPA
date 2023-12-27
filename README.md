@@ -35,3 +35,16 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 ## Acknowledgement
 ![earth](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8872370e-55de-4cfd-866b-4205d3cfc683)
+
+----
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{kira2022llmroboticspaperslist,
+    title = {Awesome-IPA},
+    author = {Maowei Jiang},
+    journal = {GitHub repository},
+    url = {[https://github.com/GT-RIPL/Awesome-LLM-Robotics](https://github.com/Zero-coder/IPA-is-all-you-need)https://github.com/Zero-coder/IPA-is-all-you-need},
+    year = {2023},
+}
+```
