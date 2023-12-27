@@ -1,4 +1,4 @@
-# 🌌🔭🌍Awesome-IPA：Open-Source IPA framework and tutorials. 
+# 🌌🔭Awesome-IPA：Open-Source IPA framework and tutorials. 
 <div align="center">
 <!--   ![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1) -->
   <img src="https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1" alt="image" class="center">
