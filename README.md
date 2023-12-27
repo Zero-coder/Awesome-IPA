@@ -1,5 +1,6 @@
 # Awesome-IPA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1)
 
 Our goal is to build a simple and clear general IPA framework and tutorial to facilitate your application or secondary development based on your own scenario. For mianstream platform MacOs, Windows, Linux(Ubuntu).
 
