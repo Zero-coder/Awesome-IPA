@@ -9,7 +9,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
   - [IPA-framework](#IPA-framework)
   - [Demos](#Demos)
-  - [Simple-Rule&&Tutorials](#Simple-Rule&&Tutorials)
+  - [Simple-Rule-Tutorials](#Simple-Rule-Tutorials)
   - [Acknowledgement](#Acknowledgement)
 
 ## IPA-framework
@@ -17,7 +17,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Demos
 
 * [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer): A framework to enable multimodal models to operate a computer. Using the same inputs and outputs of a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
-## Simple-Rule&&Tutorials
+## Simple-Rule-Tutorials
 
 <div align="center">
 <!--   ![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1) -->
