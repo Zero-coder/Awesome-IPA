@@ -19,7 +19,9 @@ Our goal is to build a simple and clear general IPA framework and tutorial to fa
 
   <img src="https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1" alt="image" class="center">
 </div>
-![5b30120f2542bac13c12fae754679d17](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/0fabed35-646b-402e-8475-5210d3f44be4)
+
+![5b30120f2542bac13c12fae754679d17](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/7c38e949-f364-4e7d-a2dd-117ea7db46c6)
+
 
 * [Interpretation for Self-Operating Computer Framework](http://t.csdnimg.cn/iZoPm): Interpretation in Chinese.
 
