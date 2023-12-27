@@ -1,10 +1,18 @@
 # 🌌🔭Awesome-IPA：Open-Source IPA framework and Demos. 
 
-
-
 Our goal is to build a simple and clear general IPA framework and tutorial to facilitate your application or secondary development based on your own scenario. For mianstream platform MacOs, Windows, Linux(Ubuntu).
+#### Please feel free to send me [pull requests](https://github.com/Zero-coder/IPA-is-all-you-need/edit/main/README.md) or email jiangmaowei@sia.cn to add OS-IPA-demos! <br>
 
-## IPA framework(Expect to be soon, slow is fast🙂)
+If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
+
+## Overview
+
+  - [IPA framework](#IPA-framework)
+  - [Demos](#Demos)
+  - [Simple Rule - Tutorials](#Simple-Rule-Tutorials)
+  - [Acknowledgement](#Acknowledgement)
+
+## IPA-framework
 
 ## Demos
 
