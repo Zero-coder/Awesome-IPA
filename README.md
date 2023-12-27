@@ -4,7 +4,7 @@
 
 Our goal is to build a simple and clear general IPA framework and tutorial to facilitate your application or secondary development based on your own scenario. For mianstream platform MacOs, Windows, Linux(Ubuntu).
 
-## IPA framework(Expect to be soon🙂)
+## IPA framework(Expect to be soon, slow is fast🙂)
 
 ## Demos
 
