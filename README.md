@@ -18,7 +18,11 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - [Acknowledgement](#Acknowledgement)
 
 ## IPA-framework
-![image](https://github.com/Zero-coder/Awesome-IPA/assets/54145971/f048d328-babf-4f17-b2b2-dbc33241e6ec)
+
+<div align="center">
+
+  <img src="https://github.com/Zero-coder/Awesome-IPA/assets/54145971/f048d328-babf-4f17-b2b2-dbc33241e6ec" alt="image" class="center">
+</div>
 
 ## Demos
 
