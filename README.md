@@ -28,6 +28,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 
 * [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer): A framework to enable multimodal models to operate a computer. Using the same inputs and outputs of a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
 * [AppAgent](https://github.com/mnotgod96/AppAgent): We introduce a novel LLM-based multimodal agent framework designed to operate smartphone applications.
+* [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://github.com/OpenBMB/ProAgent): An LLM-based agent designed to craft workflows from human instructions and make intricate decisions by coordinating specialized agents.
 ## Simple-Rule-Tutorials
 
 <div align="center">
