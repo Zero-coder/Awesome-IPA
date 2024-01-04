@@ -13,6 +13,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Overview
 
   - [IPA-framework](#IPA-framework)
+  - [Features](#Features)
   - [Demos](#Demos)
   - [Simple-Rule-Tutorials](#Simple-Rule-Tutorials)
   - [Acknowledgement](#Acknowledgement)
@@ -24,6 +25,48 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   <img src="https://github.com/Zero-coder/Awesome-IPA/assets/54145971/f048d328-babf-4f17-b2b2-dbc33241e6ec" alt="image" class="center">
 </div>
 
+## Features
+
+<div align="center">
+
+
+  - Automated browser tasks
+  - Anti-robot detection
+  - Authentication
+  - Integration
+  - Reasoning
+  - Run multiple parallel tasks
+  - Data collection
+  - Automated operation
+  - Email writing
+  - Candidate screening
+  - Quick bookkeeping
+  - Content crawling
+  - Quality Assurance and Testing
+  - Automatic enrollment
+  - Create a Jira ticket
+  - Resume screening
+  - Email Summary
+  - 自动化浏览器任务
+  - 反机器人检测
+  - 认证
+  - 集成
+  - 推理
+  - 运行多个并行任务
+  - 数据采集
+  - 自动化操作
+  - 电子邮件编写
+  - 候选人筛选
+  - 快速记账
+  - 内容抓取
+  - 质量保证与测试
+  - 自动入职
+  - 创建Jira工单
+  - 简历筛选
+  - 电子邮件摘要
+
+</div>
+
 ## Demos
 
 * [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer): A framework to enable multimodal models to operate a computer. Using the same inputs and outputs of a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
@@ -32,7 +75,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Simple-Rule-Tutorials
 
 <div align="center">
-<!--   ![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1) -->
+<!-   ![image](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1) ->
   <img src="https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8e1918c3-abb3-4f82-8ab5-e3138eaf83d1" alt="image" class="center">
 </div>
 <div align="center">
@@ -48,7 +91,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Acknowledgement
 ![earth](https://github.com/Zero-coder/IPA-is-all-you-need/assets/54145971/8872370e-55de-4cfd-866b-4205d3cfc683)
 
-----
+--
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
