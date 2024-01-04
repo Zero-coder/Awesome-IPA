@@ -28,7 +28,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
 ## Features
 
 <div align="center">
-
+</div>
 
   - Automated browser tasks
   - Anti-robot detection
@@ -65,7 +65,7 @@ If you find this repository useful, please consider [citing](#citation) and STAR
   - 简历筛选
   - 电子邮件摘要
 
-</div>
+
 
 ## Demos
 
